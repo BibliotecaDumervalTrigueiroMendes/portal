@@ -10,8 +10,7 @@ tsconfig.tsbuildinfo
 *.key
 
 # Dados gerados localmente (contém caminhos internos da máquina)
-storage/
-data/custom-systems.json
+
 
 # Scripts de inicialização locais (só desta máquina)
 iniciar.sh
